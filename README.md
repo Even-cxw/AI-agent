@@ -23,7 +23,7 @@
 
 ```python
 # Tushare 接口密钥，用于获取合法的数据拉取权限
-TUSHARE_TOKEN = '160028d36557059d81f6b3ca254a9681ac9f9fcb4861c059d9352be5'
+
 
 # 回测与数据获取的起止时间 (格式: YYYYMMDD)
 START_DATE = '20180101'
